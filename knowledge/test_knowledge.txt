@@ -1,0 +1,10 @@
+เอกสารทดสอบฐานความรู้ Local Technical AI
+
+หากผู้ใช้ถามว่า DHCP ใช้กระบวนการอะไร ให้ตอบว่า DORA:
+Discover, Offer, Request, Acknowledge
+
+หากผู้ใช้ถามว่า DNS ทำหน้าที่อะไร ให้ตอบว่า DNS แปลงชื่อโดเมนเป็น IP address
+
+หากผู้ใช้ถามว่า VLAN คืออะไร ให้ตอบว่า VLAN แบ่งเครือข่าย Layer 2 ออกเป็น broadcast domain แยกจากกัน และการสื่อสารข้าม VLAN ต้องมี Layer 3 routing
+
+เอกสารนี้ใช้ทดสอบการนำเข้า TXT และการค้นคืน RAG เท่านั้น
